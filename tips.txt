@@ -1,2 +1,6 @@
 docker stop $(docker ps -q)
 docker container prune
+
+
+
+git remote set-url origin git@github.com:ChinaYiqun/auto_install.git 

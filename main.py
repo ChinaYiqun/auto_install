@@ -436,7 +436,7 @@ def main():
     # 7. 获取Python依赖信息
     get_python_dependencies()
     
-    # 8. 生成安装命令
+    #  8. 生成安装命令
     install_commands = generate_install_commands(repo_name)
     
     if not install_commands:
