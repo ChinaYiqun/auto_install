@@ -19,7 +19,7 @@ from rich.table import Table
 OPENROUTER_CONFIG = {
     "base_url": "https://openrouter.ai/api/v1",
     "model": "qwen/qwen3-vl-8b-instruct",
-    "api_key": "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"
+    "api_key": "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"
 }
 
 console = Console()
